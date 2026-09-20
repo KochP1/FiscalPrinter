@@ -1,0 +1,6 @@
+@ImpresionFiscal_HostAddress = https://localhost:7249
+
+GET {{ImpresionFiscal_HostAddress}}/api/Impresion/Ping
+Accept: application/json
+
+###

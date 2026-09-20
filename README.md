@@ -7,7 +7,7 @@
 | Propiedad              | Valor                                     |
 | ---------------------- | ----------------------------------------- |
 | **Título**             | API de Impresora Fiscal                   |
-| **Versión**            | v1.26.0903                                |
+| **Versión**            | v1.26.0914                                |
 | **Base URL (fiscal)**  | `http://<host>:7249/api/Impresion`        |
 | **Base URL (ticket)**  | `http://<host>:7249/api/ImpresionTicket`  |
 | **Puerto por Defecto** | 7249                                      |
